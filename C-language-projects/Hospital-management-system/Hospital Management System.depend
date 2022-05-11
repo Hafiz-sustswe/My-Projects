@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1616572051 source:f:\programming practices\projects\hospital management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"menu.h"
+
+1617766971 f:\programming practices\projects\hospital management system\menu.h
+
+1617522700 source:f:\programming practices\untitled2.c
+	<stdio.h>
+
