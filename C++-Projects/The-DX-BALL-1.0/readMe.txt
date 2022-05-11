@@ -4,14 +4,16 @@ Project work For First year Second Semester (Game Development) At Shahjalal Univ
 Project Name : The Dx Ball 1.0
 Authors      :Team  "The Seekers" 
 Team Members : MD Sadman Hafiz(2018831057) (Team Leader)
-	           : kh Mahmudul Hasan(2018831039)
+	     : kh Mahmudul Hasan(2018831039)
              : Iftekhar Anam(2019831059)
              : Omar Faruk(2019831055)
-	           : Sadia Islam Hridi(2019831080)
+	     : Sadia Islam Hridi(2019831080)
 -----------------------------------------------------------------
 
 Code Wriiten By : MD Sadman Hafiz
 date            : 30/09/2021
+
+------------------------------------------------------------------
 
 
 -> This is my first official Project for first year second semester project work .
