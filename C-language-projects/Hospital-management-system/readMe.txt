@@ -1,0 +1,3 @@
+-Here You will find 'main.c' to run this project
+-'main.c' includes user-defined header file called 'menu.h'
+-'menu.h' contains the main codes
