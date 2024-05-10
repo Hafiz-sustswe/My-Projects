@@ -17,7 +17,7 @@ date            : 30/09/2021
 
 
 -> This is my first official Project for first year second semester project work .
--> I led my team and had  written the code of the whole project
+-> I led my team and had  written the code.
 -> This is Written with C++ language and 'igraphics.h' Header file (original Author - S. M. Shahriar Nirjon)
 -> This project should be run on Microsoft visual stduio 2013
 -> You have to run 'iMain.cpp' file which inlcudes 'igraphics.h' Header file 
